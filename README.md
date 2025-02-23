@@ -67,3 +67,6 @@ This project focuses on Business Intelligence (BI) development for an online clo
 1. Open the Tableau dashboard files to explore the visualized data insights.
 2. Run the provided R scripts to replicate the statistical analysis.
 3. Refer to the data warehouse schema and documentation for database structure understanding.
+
+Connecting to my profile on public.tableau:
+https://public.tableau.com/app/profile/noam.ganim/vizzes
